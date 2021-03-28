@@ -1,3 +1,17 @@
+<h1>
+  ____  _    _  _____ _  ___    _ _____ _   _  _____ 
+ |  _ \| |  | |/ ____| |/ / |  | |_   _| \ | |/ ____|
+ | |_) | |  | | |    | ' /| |__| | | | |  \| | |  __ 
+ |  _ <| |  | | |    |  < |  __  | | | | . ` | | |_ |
+ | |_) | |__| | |____| . \| |  | |_| |_| |\  | |__| |
+ |____/ \____/ \_____|_|\_\_|  |_|_____|_| \_|\_____|
+ </h1>
+
+
+
+
+
+
 <span id="a">buckhing@code</span>:<span id="b">~</span><span id="c">$</span> cd buckhing/home<!-- kjsdfhkjdhsfkjdshfkj -->About_Us
 <span id="a">buckhing@code</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->codenerve.txt<br/><br/>
 My favorite code quote, "<span id="k">Code for Everyone</span>". <!-- sjkfhskjf -->
